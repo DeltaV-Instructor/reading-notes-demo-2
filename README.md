@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+## Code 102 Reading Notes
+
 - [Learning from Class One](102/class1.md)
 - [Learning from Class Two](102/class2.md)
 - [Learning from Class Three](102/class3.md)
@@ -11,7 +13,7 @@
 - [Learning from Class Seven](102/class7.md)
 - [Learning from Class Eight](102/class8.md)
 
-## 201 links
+## Code 201 Reading Notes
 
 - [Learning from Class One](201/class1.md)
 - [Learning from Class Two](201/class2.md)
